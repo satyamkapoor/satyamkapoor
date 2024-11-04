@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Satyam Kapoor!
 
-<!--
-**satyamkapoor/satyamkapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Site Reliability Engineer (SRE) based in Frankfurt am Main. I have a passion for ensuring the reliability, scalability, and performance of systems. I enjoy automating processes and improving infrastructure to deliver seamless user experiences.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkapoor&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/satyamkapoor/)
+- [Website](https://satyamkapoor.com)
+- [Mastodon](https://mastodon.online/@satyam) 
+- [Bluesky](https://bsky.app/profile/satyamkapoor.com) 
+
+## 🛠️ Technologies & Tools
+- **Languages**: Python, Go
+- **Cloud Providers**: AWS, Azure, OCI
+- **Tools**: Kubernetes, Docker, Terraform
+- **CI/CD**: Github Actions, GitLab CI
+
+
+## 💬 Ask Me About
+- Site Reliability Engineering best practices
+- Cloud architecture and infrastructure automation
+- Monitoring and observability tools
+
+## 🎉 Fun Fact
+I love to click pictures. You can get them at [Unsplash](https://unsplash.com/@satyamkapoor)
+<!-- Feel free to add more sections as needed -->
