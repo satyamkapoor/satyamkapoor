@@ -2,8 +2,6 @@
 
 I'm a Site Reliability Engineer (SRE) from India. I've spent 22.57% of my life studying and working in Belgium, and I'm currently thriving in Frankfurt am Main, Germany.
 
-## 📊 Useless GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamkapoor&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/satyamkapoor/)
